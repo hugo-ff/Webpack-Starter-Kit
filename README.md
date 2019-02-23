@@ -38,7 +38,7 @@ _Para utilizar esta configuración con propósitos de desarrollo, se debe ejecut
 npm start
 ```
 
-_Este starter-kit trae ejemplos de desarrollo basado en componentes con JavaScript, React.js, Vue.js y TypeScript, y constan de una pequeña web que nos permite visualizar un 'hola mundo' desde cada uno._
+_Este starter-kit trae ejemplos de desarrollo basado en componentes con JavaScript, React.js, Vue.js y TypeScript, y constan de una pequeña web que nos permite visualizar un 'hola mundo' desde cada uno. El sitio en vivo puede verse en: https://hugo-ff.github.io/Webpack-Starter-Kit/dist/_
 
 ## Deployment 📦
 
